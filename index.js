@@ -1,0 +1,2 @@
+const person ={
+    first: namaa,};
